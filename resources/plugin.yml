@@ -1,0 +1,5 @@
+name: LavaRun
+main: com.infermc.lavarun.LavaRun
+author: Thomas Edwards
+description: A fine day for a lavarun
+version: 1.1
